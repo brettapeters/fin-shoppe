@@ -1,0 +1,14 @@
+{
+  "name": "fin-shoppe",
+  "version": "1.0.0",
+  "description": "Fin Coding Challenge",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brett Peters",
+  "license": "ISC"
+}
