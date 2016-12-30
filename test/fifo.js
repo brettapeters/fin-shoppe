@@ -12,6 +12,6 @@ test('fifo', function(t) {
   var expected = JSON.parse(fs.readFileSync(testOutput));
   var actual = fulfill(input);
 
-  t.deepEqual(expected, actual, 'Cool beans, it works');
+  t.deepEqual(actual, expected, 'Cool beans, it works');
   t.end();
 });
